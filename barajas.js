@@ -16,6 +16,7 @@ function solucion (tipo) {
             baraja[i+3]=numeros[i]+"_de_rosas"
          }
         for (var i = 5; i <= 12; i++) {
+        sdsds
             baraja[i+11]=numeros[i]+"_de_campanas"
          }
         for (var i = 5; i <= 12; i++) {
