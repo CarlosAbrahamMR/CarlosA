@@ -6,6 +6,8 @@ function App() {
   return (
     <div className="App">  
         <Pokemon name="Charmander" />
+        sd
+        asdsa
     </div>
   );
 }
