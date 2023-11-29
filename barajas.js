@@ -18,12 +18,12 @@ function solucion (tipo) {
         for (var i = 5; i <= 12; i++) {
         sdsds
             baraja[i+11]=numeros[i]+"_de_campanas"
-         }
+         }asda
         for (var i = 5; i <= 12; i++) {
             baraja[i+19]=numeros[i]+"_de_bellotas"
          }
          
-    }
+    }as
     
      if (tipo=='espaniol'){
         //let cmbSuizo = ['_de_escudos','_de_rosas','_de_campanas','_de_bellotas']
